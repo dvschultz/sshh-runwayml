@@ -7,7 +7,9 @@
 - [Week 1 Video](https://drive.google.com/file/d/1HqicwdKAOe2BhcG6wehFw15DBMmclara/view?usp=sharing)
 
 ### Q&A notes
-
+- A [livestream](https://youtu.be/cHr9qGPHdiA?t=1214) of work from previous RunwayML student work (the first 20min have a lot of technical issues, so I’m linking past that)
+- [A playlist of dataset scraping tutorials](https://www.youtube.com/playlist?list=PLWuCzxqIpJs9v81cWpRC7nm94eTMtohHq)
+- [Sam Lavigne is running a webscraping newsletter](https://twitter.com/sam_lavigne/status/1261794434619973634)
 
 ### Homework
 - *Play with the models in Runway*
