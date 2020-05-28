@@ -22,3 +22,25 @@
 - **Think about a bigger project you want to make**
   - Look at the Runway Slack and social projects for inspiration
   - Look at some of the models and consider what inputs you have available to you and what you want as outputs
+  
+## Week 2
+
+### Course Materials
+- [Week 2 Slides](https://drive.google.com/open?id=1E9VaCRp15Tc1L1PTugZWmLj1O7m0_Ox6xvt6AZ2HYuQ)
+- [Week 2 Video](https://drive.google.com/open?id=1UV9MKNd5XCCF0j9p3o3Zf1IuNCfzMzyN)
+
+### Q&A notes
+- [Deep Dream demo and notebook](https://www.youtube.com/watch?v=MvOI_u0khTs&t=2s) (I prefer this to the Runway model, but admit it’s more cumbersome)
+- [StyleGAN model trained on video frames](https://www.youtube.com/watch?v=6_i05fAAnlY)
+- [A demo on turned video into frames](https://www.youtube.com/watch?v=ck11jOVYlIw)
+- [Naoko’s Lamp Generator](https://youtu.be/cHr9qGPHdiA?t=1551)
+- lots of good imagery to work with in the [Biodiversity Heritage Library](https://www.flickr.com/photos/biodivlibrary)
+- TK: A full walkthrough of the neural-style-tf model on Runway.
+
+### Homework
+- **Start thinking about datasets**
+  - Watch some of the [dataset videos](https://www.youtube.com/playlist?list=PLWuCzxqIpJs9v81cWpRC7nm94eTMtohHq)
+  - If you want to make a personal dataset or something by hand, start collecting!
+  - If you’ve never done scraping before, I might recommend looking for Instagram accounts ([Instagram is the easiest to scrape](https://www.youtube.com/watch?v=tBmQcdLLFyc&list=PLWuCzxqIpJs9v81cWpRC7nm94eTMtohHq&index=10))
+- **Keep exploring models**
+  - We’ve covered a handful of models so far in class, but there are many more! Keep digging around.
