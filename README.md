@@ -44,3 +44,18 @@
   - If you’ve never done scraping before, I might recommend looking for Instagram accounts ([Instagram is the easiest to scrape](https://www.youtube.com/watch?v=tBmQcdLLFyc&list=PLWuCzxqIpJs9v81cWpRC7nm94eTMtohHq&index=10))
 - **Keep exploring models**
   - We’ve covered a handful of models so far in class, but there are many more! Keep digging around.
+  
+  
+## Week 3
+
+### Course Materials
+- [Week 3 Slides](https://docs.google.com/presentation/d/1G6WNmIW3b1seNtElGR1wxAZ-TfZ1t08kMgm2msOSvU0/edit?usp=sharing)
+- [Week 3 Video](https://drive.google.com/file/d/1FH45dk98vqrWeTdau6r5NkRCX1hJMXvp/view?usp=sharing)
+
+### Homework
+- Get a hold of a dataset
+  - Make your own!
+  - Scrape your own! 
+  - Find a premade one on the internet. 
+  - Don’t care about datasets? Let me know if you want a premade one from us.
+
