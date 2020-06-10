@@ -53,7 +53,7 @@
 - [Week 3 Video](https://drive.google.com/file/d/1FH45dk98vqrWeTdau6r5NkRCX1hJMXvp/view?usp=sharing)
 
 ### Homework
-- Get a hold of a dataset
+- **Get a hold of a dataset**
   - Make your own!
   - Scrape your own! 
   - Find a premade one on the internet. 
