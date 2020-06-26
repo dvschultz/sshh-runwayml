@@ -57,5 +57,35 @@
   - Make your own!
   - Scrape your own! 
   - Find a premade one on the internet. 
-  - Don’t care about datasets? Let me know if you want a premade one from us.
+  - Don’t care about datasets? Let me know if you want a premade one from me.
+  
+## Week 4
+
+### Course Materials
+- [Week 4 Slides](https://docs.google.com/presentation/d/1_zX74YMEGl3-R12pwU2Z2TY5LzrFH2LWn8gUKvlQe78/edit?usp=sharing)
+- [Week 4 Video](https://drive.google.com/file/d/1vQtDktGd3MHpJh96NQTZzT0JVByamr3S/view?usp=sharing)
+
+### Homework
+- **Train a model!**
+
+## Week 5
+
+### Course Materials
+- [Week 5 Slides](https://docs.google.com/presentation/d/1B8U6QTfZfkTg_n6B8o-m1geCVa-AjjIhc8wP3dZLbyk/edit?usp=sharing)
+- [Week 5 Video](https://drive.google.com/file/d/12Bn45c77YBeGwRi71F8hYKAQfrF_T8mt/view?usp=sharing)
+
+### Links for p5.js and hosted model examples
+- [p5.js examples](https://editor.p5js.org/dvs/sketches)
+- [Hosted Model example](https://github.com/dvschultz/runway_site/)
+
+### Links Discussed in Class
+- [Wrongful accusation because of facial recognition system](https://www.nytimes.com/2020/06/24/technology/facial-recognition-arrest.html)
+- [Adam Pickard article on creative ideation with ML](https://medium.com/@adampickard_44261/advancements-in-machine-learning-assisted-ideation-5c42cdf69c37)
+- [Polarized microphotography StyleGAN2 interpolation](https://vimeo.com/430611083)
+- [PULSE Model controversy](https://thegradient.pub/pulse-lessons/)
+- [Some of Mario Klingemann’s PULSE model explanations](https://twitter.com/quasimondo/status/1274636495941500928)
+
+### Homework
+- **Please fill out the [end of class survey]()**
+- **Remember for sign up for a 1:1 session with me (link in our Slack channel)**
 
